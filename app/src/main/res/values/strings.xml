@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">feedback</string>
+    <string name="min_rating">Ratings and reviews</string>
+    <string name="min_tnku">Thank you for buying our product</string>
+    <string name="min_confirm">confirm</string>
+    <string name="mini_seerevi">see more reviews</string>
+    <string name="mini_creviews">change your reviews</string>
+    <string name="mini_writeyre">write your review</string>
+    <string name="miniRatingAre">Ratings and reviews</string>
+    <string name="mini_thegruff">The gruffalo</string>
+    <string name="mini_minidu">minidu</string>
+    <string name="mini_therethe">There There</string>
+    <string name="mini_nipun">nipun</string>
+    <string name="mini_5">5.0</string>
+    <string name="miniR">I am so thankful to GRANTHA.LK I allow to me give 5 starts</string>
+    <string name="mini_Chyrevi">Change your reviews</string>
+    <string name="mini_minid">Minidu</string>
+    <string name="mini_4">4.0</string>
+    <string name="mini_R">This story very beatiful a story I have read most like one of story</string>
+    <string name="MINI_DE">Delete</string>
+    <string name="miniChayre">Change your reviews</string>
+    <string name="mini_nip">Nipun</string>
+    <string name="mini_niR">I am so thankful to GRANTHA.LK I allow to me give 5 starts</string>
+
+</resources>
